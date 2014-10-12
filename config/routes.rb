@@ -3,7 +3,7 @@ DemoApp::Application.routes.draw do
 
   resources :users
 
-  root 'glacial-gorge-5715#application'
+  root 'demo_app#index'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
