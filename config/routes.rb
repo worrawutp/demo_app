@@ -3,6 +3,7 @@ DemoApp::Application.routes.draw do
 
   resources :users
 
+  root 'glacial-gorge-5715.herokuapp.com'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
